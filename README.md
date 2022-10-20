@@ -1,9 +1,10 @@
 
 ### Hi there 👋
 
-Hi, I'm [Charles NDAYISABA](https://nccharles.site), a Software Engineer 🚀 from Rwanda, currently, I'm a working on somthing cool 🙍🏽‍♂️.
+Hi, I'm [Charles NDAYISABA](https://nccharles.site), a Software Engineer 🚀 from Rwanda🏽‍♂️.
 - 👀 I’m interested in PERN,MERN Stacks
 - 🌱 I’m currently working on cool stuff
+
 Apart from programming, I enjoy music and traveling.
 
 ### My first Github [nccharles](https://github.com/nccharles)
